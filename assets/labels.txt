@@ -1,0 +1,3 @@
+0 Endomorph
+1 Ectomorph
+2 Mesomorph
